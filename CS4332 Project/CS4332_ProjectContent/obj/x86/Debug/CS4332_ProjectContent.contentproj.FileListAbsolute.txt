@@ -1,0 +1,2 @@
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_ProjectContent\obj\x86\Debug\CS4332_ProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_ProjectContent\obj\x86\Debug\CS4332_ProjectContent.contentprojResolveAssemblyReference.cache

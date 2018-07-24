@@ -1,0 +1,50 @@
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\CS4332_Project.exe
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\CS4332_Project.pdb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\CS4332_Project.csprojResolveAssemblyReference.cache
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\CS4332_Project.exe
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\CS4332_Project.pdb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\background.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\menu.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\player.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\moveEnemy.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\staticEnemy.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\background.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\menu.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\player.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\moveEnemy.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\staticEnemy.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\CS4332_Project.exe
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\CS4332_Project.pdb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\CS4332_Project.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\CS4332_Project.exe
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\CS4332_Project.pdb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\gamewon.xnb
+C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\goal.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\gamewon.xnb
+C:\Users\Luca Di Dio\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\goal.xnb

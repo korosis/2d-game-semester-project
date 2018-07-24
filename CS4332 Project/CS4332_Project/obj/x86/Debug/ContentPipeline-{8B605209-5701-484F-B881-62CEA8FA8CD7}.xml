@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menu.jpg</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2017-12-08T00:51:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2017-12-08T18:00:00.870881-06:00</Time>
+    </Item>
+    <Item>
+      <Source>moveEnemy.jpg</Source>
+      <Name>moveEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\moveEnemy.xnb</Output>
+      <Time>2017-12-08T19:12:30.1946018-06:00</Time>
+    </Item>
+    <Item>
+      <Source>staticEnemy.png</Source>
+      <Name>staticEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\staticEnemy.xnb</Output>
+      <Time>2017-12-08T17:59:23.6905227-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2017-12-08T10:20:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.jpg</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2017-12-08T17:07:59.2751718-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gamewon.jpg</Source>
+      <Name>gamewon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\gamewon.xnb</Output>
+      <Time>2017-12-08T17:17:43.7530356-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2017-12-08T19:07:20.4265721-06:00</Time>
+    </Item>
+    <Item>
+      <Source>goal.png</Source>
+      <Name>goal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\goal.xnb</Output>
+      <Time>2017-12-08T19:18:36.9961023-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8B605209-5701-484F-B881-62CEA8FA8CD7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Luca\Google Drive\visual studio\CS4332 Project\CS4332 Project\CS4332_Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-06-14T14:43:37.9819545-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
